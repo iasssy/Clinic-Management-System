@@ -1,0 +1,10 @@
+1,Alexie,Petersons,2010,9,17,FEMALE,alex.pete@example.com,AAAminus
+2,Alice,Johnson,1990,7,8,FEMALE,alicejohnson@example.com,InStar
+3,Bobby,Andersons,1985,12,1,MALE,ihrwiuethie@hjkdfh.com,AAAA
+4,Alex,Peterson,2010,9,17,MALE,alex.pete@example.com,AAAplus
+5,Jack,Jackson,2024,8,5,MALE,j.jackson@gmail.com,AAAA
+6,Will,Smith,1966,8,1,MALE,willsmith@example.com,PROStar
+7,Susan,Green,1990,7,8,FEMALE,susangreemn@example.com,InStar
+8,Holly,Berry,1990,9,20,FEMALE,hollyberry@gmail.com,CroissancePLUS
+9,Sam,Sammmy,1990,5,22,MALE,uuuu@mmaa,AAAA
+

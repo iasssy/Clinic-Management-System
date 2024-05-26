@@ -1,0 +1,6 @@
+1,John,Doe,1980,1,15,MALE,johndoe@example.com,2022-01-01,Cardiology
+2,Jane,Smith,1975,5,25,FEMALE,janesmith@gmail.com,2021-10-16,Orthopedics
+3,Joe,Baker,1970,12,10,MALE,joebaker@example.com,2010-05-01,General therapist
+4,Mike,Laroux,1979,10,10,MALE,mike.laroux@example.com,2018-02-19,Oncologist
+5,Samuel,Johnson,1978,8,31,MALE,samuel.johnson@example.com,2014-02-17,General therapist
+6,Emilly,Clarks,1990,8,7,FEMALE,fghj@hjkl.com,2000-01-18,Endocrinology

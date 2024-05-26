@@ -1,0 +1,6 @@
+1,1,1,2022-04-01,Paracetamol a day during 1 month 
+2,2,3,2024-08-12,Aspirin a day during 2 weeks
+4,3,2,2024-08-22,Penicillin a day during 1 week
+5,3,2,2024-10-08,Paracetamol 1 pill a day during 1 month
+6,2,3,2024-08-11,Aspirin a day during 2 weeks
+7,3,3,2024-08-01,2pills of Amocelaphin  a day during 2 weeks
